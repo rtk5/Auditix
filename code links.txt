@@ -1,0 +1,3 @@
+https://github.com/rtk5/code-sample
+
+https://github.com/django-oscar/django-oscar
